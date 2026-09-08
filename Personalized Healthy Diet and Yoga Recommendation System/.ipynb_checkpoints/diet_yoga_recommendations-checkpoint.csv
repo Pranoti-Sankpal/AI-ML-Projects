@@ -1,0 +1,4 @@
+Age,Gender,Weight,Height,Physical_exercise,Goal_Diet_Type,Experience_Level,Sleep_Hours,Water_Intake,Diet_Preference,Stress_Level,Health_Condition,Predicted_Diet_Type,Recommended_Foods,Avoid_Foods,Predicted_Yoga_Type,Suggested_Asanas
+67,Male,60.0,1.68,1.0,Keto,Advanced,6.0,3.0,Vegan,Low,BP,Mediterranean,"Olive Oil, Fish, Nuts, Vegetables, Fruits, Whole Grains, Legumes","High Salt Foods, Pickles, Processed Snacks",Vinyasa,"Sun Salutation, Chaturanga, Warrior II, Triangle Pose, Breathing Exercises, Restorative Poses"
+30,Male,70,1.75,Moderate,Balanced,Beginner,7,2.0,Vegan,Low,None,Balanced,Hatha
+30,Male,70,1.75,Moderate,Balanced,Beginner,7,2.0,Vegan,Low,None,Balanced,Hatha

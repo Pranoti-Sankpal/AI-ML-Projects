@@ -1,0 +1,18 @@
+Age,Gender,Weight,Height,Physical_exercise,Goal_Diet_Type,Experience_Level,Sleep_Hours,Water_Intake,Diet_Preference,Stress_Level,Health_Condition,Predicted_Diet_Type,Recommended_Foods,Avoid_Foods,Predicted_Yoga_Type,Suggested_Asanas
+67,Male,60.0,1.68,1.0,Keto,Advanced,6.0,3.0,Vegan,Low,BP,Mediterranean,"Olive Oil, Fish, Nuts, Vegetables, Fruits, Whole Grains, Legumes","High Salt Foods, Pickles, Processed Snacks",Vinyasa,"Sun Salutation, Chaturanga, Warrior II, Triangle Pose, Breathing Exercises, Restorative Poses"
+30,Male,70,1.75,Moderate,Balanced,Beginner,7,2.0,Vegan,Low,None,Balanced,Hatha
+30,Male,70,1.75,Moderate,Balanced,Beginner,7,2.0,Vegan,Low,None,Balanced,Hatha
+30,Male,70,1.75,Moderate,Balanced,Beginner,7,2.0,Vegan,Low,None,Balanced,Hatha
+21,Male,55.0,1.68,2.0,Balanced,Intermediate,6.0,2.0,Non-Vegetarian,Low,Unknown,Dash Diet,Yin
+45,Female,50.0,1.65,2.0,Low-Carb,Beginner,7.0,2.0,Vegetarian,High,Unknown,Low Fat,Balasana
+15,Female,35.0,1.47,1.0,Keto,Beginner,6.0,2.0,Vegan,Low,Unknown,Gluten Free,Yin
+45,Male,70.0,1.7,1.0,Balanced,Beginner,7.0,2.0,Vegetarian,Moderate,Diabetes,Vegan,Balasana
+22,Male,55.0,1.73,2.0,Balanced,Intermediate,8.0,2.0,Non-Vegetarian,Low,Unknown,Balanced,Balasana
+45,Male,70.0,1.75,2.0,Vegetarian,Intermediate,7.0,2.0,Vegetarian,Moderate,BP,Low Carb,Restorative
+70,Female,45.0,1.5,1.0,Low-Carb,Beginner,6.0,1.0,Vegetarian,Low,Cholesterol,Vegan,Balasana
+45,Female,55.0,1.6,2.0,Balanced,Beginner,7.0,2.0,Vegan,Moderate,BP,Low Fat,Yin
+43,Female,58.0,1.54,3.0,Balanced,Beginner,7.0,2.0,Vegan,Moderate,BP,Dash Diet,Restorative
+21,Male,50.0,1.68,1.0,Balanced,Intermediate,6.0,2.0,Non-Vegetarian,Low,BP,Vegan,Balasana
+21,Male,55.0,1.62,2.0,Balanced,Intermediate,7.0,3.0,Vegetarian,Low,BP,Keto,Restorative
+20,Male,50.0,1.58,2.0,Balanced,Beginner,7.0,2.0,Vegan,Low,BP,Keto,Restorative
+20,Male,45.0,1.55,1.0,Balanced,Beginner,7.0,2.0,Vegan,Low,Unknown,Flexitarian,Restorative
